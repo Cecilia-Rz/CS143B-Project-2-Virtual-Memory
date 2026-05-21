@@ -18,8 +18,9 @@ g++ -std=c++17 main.cpp VMManager.cpp -o vm
 Execution requires the files to be stated in the following order:
 
 ```bash
-./vm "init text file", "input text file" "output text file
+./vm "init text file" "input text file" "output text file"
 ```
+Examples Below
 
 ## Without Demand Paging
 
